@@ -7,21 +7,14 @@ const Members = () => {
             <div className="member member-1">
                 <div className="member-img"></div>
                 <div className="member-info">
-                    <h1 className="name">Ferhat MOUSAVİ</h1>
-                    <h3 className="position">Technology Consultant & Instructor, Author</h3>
+                    <h1 className="name">Doğan Berk YELKENCİ</h1>
+                    <h3 className="position">Front-End Developer</h3>
                     <h4 className="about">
-                        Strategy development, leadership, project and program management, product and business
-                        operations.
-
-                        Enterprise Applications. Software Architect. Systems Analysis/Design and Maintenance. Project
-                        and Team Management using PMI methodologies. Full Life-cycle IT Solutions Development Team
-                        Management. Mentoring. Startups.
-
-                        More than 22 years of Information technologies diversified expertise experiences in a
-                        professional context, and involved in numerous software projects throughout Retail, Banking, IT
-                        and cryptocurrency and blockchain.
+                        Extremely passionate and motivated software developer in field. Analytical and detail oriented,
+                        creative and adaptive. Currently working on payment system for new generation cash register
+                        project
                     </h4>
-                    <a href="mailto:ferhat.mousavi@gmail.com" className="contact-member">
+                    <a href="mailto:d.berkyelkenci@gmail.com" className="contact-member">
                         <span>contact</span>
                     </a>
                 </div>
@@ -42,7 +35,7 @@ const Members = () => {
                         Expert on HSM in order to perform data transfer safely.
                     </h4>
 
-                    <a href="mailto:yahyacan17@hotmail.com" className="contact-member">
+                    <a href="mailto:ogulcanyagiz17@gmail.com" className="contact-member">
                         <span>contact</span>
                     </a>
                 </div>

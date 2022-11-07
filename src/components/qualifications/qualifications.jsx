@@ -75,7 +75,7 @@ const Qualifications = () => {
                             constantly improved myself and bring friends from different cultures and sectors.
                         </p>
                     </div>
-                    <h1>CELAL BAYAR ÜNİVERSİTESİ</h1>
+                    <h1>CELAL BAYAR UNIVERSITY</h1>
                 </div>
             </div>
         </div>
